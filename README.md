@@ -31,3 +31,8 @@ Html
 - [ICO在线转换](http://www.ico8.net/index.php?action=make)
 - [ICON素材库网站](https://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.dc64b3430&cid=25452)
 - [素材首页](https://www.iconfont.cn/home/index?spm=a313x.7781069.1998910419.2)
+
+提交
+
+- git-plus <kbd>Ctrl-Shft-H</kbd>
+- _Add All, Commit And Push_.
