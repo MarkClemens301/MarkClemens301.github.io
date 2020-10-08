@@ -1,8 +1,6 @@
 # MarkClemens301.github.io
 
-[个人主页](https://github.com/MarkClemens301/MarkClemens301.github.io)
-
-https://github.com/MarkClemens301/MarkClemens301.github.io
+[我的博客](https://markclemens301.github.io)   [个人主页Project](https://github.com/MarkClemens301/MarkClemens301.github.io)
 
 # JavaStudy
 ---
