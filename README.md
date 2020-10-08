@@ -34,3 +34,7 @@ Html
 
 - git-plus <kbd>Ctrl-Shft-H</kbd>
 - _Add All, Commit And Push_.
+
+
+
+![pages](assets/image-20201008132930988.png)
