@@ -40,3 +40,5 @@ Html
 
 
 ![pages](assets/image-20201008132930988.png)
+
+![pages](blob/master/assets/image-20201008132930988.png)
